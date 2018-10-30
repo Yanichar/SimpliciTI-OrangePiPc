@@ -1,4 +1,4 @@
-#ifndef uart_cc430_h
+﻿#ifndef uart_cc430_h
 #define uart_cc430_h
 
 #include <stdbool.h> // supports bool, true, and false

@@ -1,4 +1,4 @@
-#ifndef uart_intfc_cc430_h
+﻿#ifndef uart_intfc_cc430_h
 #define uart_intfc_cc430_h
 
 #include <stddef.h>

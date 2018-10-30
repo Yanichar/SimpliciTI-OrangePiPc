@@ -1,4 +1,4 @@
-/* Deviation = 9.521484 */
+﻿/* Deviation = 9.521484 */
 /* Base frequency = 433.074799 */
 /* Carrier frequency = 433.074799 */
 /* Channel number = 0 */

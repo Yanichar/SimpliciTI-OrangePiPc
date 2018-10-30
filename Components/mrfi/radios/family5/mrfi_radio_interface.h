@@ -1,4 +1,4 @@
-/**************************************************************************************************
+Ôªø/**************************************************************************************************
   Revised:        $Date: 2007-07-06 11:19:00 -0700 (Fri, 06 Jul 2007) $
   Revision:       $Revision: 13579 $
 
@@ -15,7 +15,7 @@
   you may not use, reproduce, copy, prepare derivative works of, modify, distribute,
   perform, display or sell this Software and/or its documentation for any purpose.
 
-  YOU FURTHER ACKNOWLEDGE AND AGREE THAT THE SOFTWARE AND DOCUMENTATION ARE PROVIDED ìAS ISî
+  YOU FURTHER ACKNOWLEDGE AND AGREE THAT THE SOFTWARE AND DOCUMENTATION ARE PROVIDED ‚ÄúAS IS‚Äù
   WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, ANY
   WARRANTY OF MERCHANTABILITY, TITLE, NON-INFRINGEMENT AND FITNESS FOR A PARTICULAR PURPOSE.
   IN NO EVENT SHALL TEXAS INSTRUMENTS OR ITS LICENSORS BE LIABLE OR OBLIGATED UNDER CONTRACT,
@@ -102,16 +102,16 @@
 /* status registers */
 #define PARTNUM     0x30      /*  PARTNUM    - Chip ID */
 #define VERSION     0x31      /*  VERSION    - Chip ID */
-#define FREQEST     0x32      /*  FREQEST    ñ Frequency Offset Estimate from demodulator */
-#define LQI         0x33      /*  LQI        ñ Demodulator estimate for Link Quality */
-#define RSSI        0x34      /*  RSSI       ñ Received signal strength indication */
-#define MARCSTATE   0x35      /*  MARCSTATE  ñ Main Radio Control State Machine state */
-#define WORTIME1    0x36      /*  WORTIME1   ñ High byte of WOR time */
-#define WORTIME0    0x37      /*  WORTIME0   ñ Low byte of WOR time */
-#define PKTSTATUS   0x38      /*  PKTSTATUS  ñ Current GDOx status and packet status */
-#define VCO_VC_DAC  0x39      /*  VCO_VC_DAC ñ Current setting from PLL calibration module */
-#define TXBYTES     0x3A      /*  TXBYTES    ñ Underflow and number of bytes */
-#define RXBYTES     0x3B      /*  RXBYTES    ñ Overflow and number of bytes */
+#define FREQEST     0x32      /*  FREQEST    ‚Äì Frequency Offset Estimate from demodulator */
+#define LQI         0x33      /*  LQI        ‚Äì Demodulator estimate for Link Quality */
+#define RSSI        0x34      /*  RSSI       ‚Äì Received signal strength indication */
+#define MARCSTATE   0x35      /*  MARCSTATE  ‚Äì Main Radio Control State Machine state */
+#define WORTIME1    0x36      /*  WORTIME1   ‚Äì High byte of WOR time */
+#define WORTIME0    0x37      /*  WORTIME0   ‚Äì Low byte of WOR time */
+#define PKTSTATUS   0x38      /*  PKTSTATUS  ‚Äì Current GDOx status and packet status */
+#define VCO_VC_DAC  0x39      /*  VCO_VC_DAC ‚Äì Current setting from PLL calibration module */
+#define TXBYTES     0x3A      /*  TXBYTES    ‚Äì Underflow and number of bytes */
+#define RXBYTES     0x3B      /*  RXBYTES    ‚Äì Overflow and number of bytes */
 
 /* burst write registers */
 #define PATABLE     0x3E      /*  PATABLE - PA control settings table */

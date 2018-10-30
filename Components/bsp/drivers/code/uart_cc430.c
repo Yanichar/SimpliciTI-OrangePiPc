@@ -1,4 +1,4 @@
-#include "uart_cc430.h"
+﻿#include "uart_cc430.h"
 
 // local variables
 static uart_get_tx_data_type uart_tx_handler = NULL;
